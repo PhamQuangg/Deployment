@@ -15,8 +15,8 @@ function App() {
   return (
     <>
       {/* <StopWatch/> */}
-      {/* <Basic/> */}
-    <Bulma/>
+      <Basic/>
+    {/* <Bulma/> */}
     </>
   )
 }
